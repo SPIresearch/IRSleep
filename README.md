@@ -4,7 +4,6 @@ This is the official project page for the IEEE Internet of Things Journal (IoTJ)
 
 **IR-Based Sleep Monitoring: Movement, Respiration, and Sleep Staging With a Structure-Aware Cross-Modal EEG Knowledge Distillation**
 
-Codes and features are under construction. Waiting for ethical approvals from the committee.
 
 ## 📄 Citation
 
