@@ -7,13 +7,13 @@ This is the official project page for the IEEE Internet of Things Journal (IoTJ)
 ## Overview
 
 <p align="center">
-  <img src="overview.png" width="95%">
+  <img src="overview.png" width="100%">
 </p>
 
 <p align="center">
   <em>
   IR-based Sleep Monitoring.
-  Four modules: sensing data collection, visual sleep analysis, bio-electrical distillation, and sleep monitoring applications.
+  Sensing data collection, Visual sleep analysis, Bio-electrical distillation, and Sleep monitoring applications.
   The system enables contactless monitoring and prediction of body movements, respiratory rate, and sleep stages solely from IR video.
   It further supports various smart healthcare IoT applications, including abnormal event warning, sleep quality assessment, and integration with external healthcare platforms, thereby bridging the gap between clinical sleep assessment and unobtrusive real-world sleep monitoring.
   </em>
